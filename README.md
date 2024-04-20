@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @ontorojii
-- 👀 I’m interested in Rust
+- 👀 I’m interested in ontology and Rust language
 - 🌱 I’m currently learning Loco.rs

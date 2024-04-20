@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @ontorojii
+- 👀 I’m interested in Rust
+- 🌱 I’m currently learning Loco.rs
